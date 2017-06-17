@@ -1,0 +1,19 @@
+Web is the vast source of information, which needs following components to work:
+
+1. Client: It is a machine which requests some files or data from the server.
+
+2. Server: It contains all the data and information to be supplied to the client.
+
+3. Internet connection: It is like bridge between client and server to communicate.
+
+4. TCP/IP: Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across the Web.
+
+5. DNS: Domain Name System Servers are like an address book for websites. When you type a web address in your browser, the browser looks at the DNS before retrieving the website. The browser needs to find out which server the website lives on, so it can send HTTP messages to the right place (see below). This is like looking up the address of the shop so you can access it.
+
+6. HTTP: Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers to speak to each other.
+
+7. Component files: A website is made up of many different files, which are like the different parts of the goods you buy from the shop. These files come in two main types:
+
+Code files: Websites are built primarily from HTML, CSS, and JavaScript, though you'll meet other technologies a bit later.
+
+Assets: This is a collective name for all the other stuff that makes up a website, such as images, music, video, Word documents, and PDFs.
